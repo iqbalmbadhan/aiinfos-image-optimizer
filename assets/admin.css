@@ -1,0 +1,17 @@
+.aiio .aiio-lede{font-size:14px;max-width:70ch}
+.aiio-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;margin:18px 0}
+.aiio-card{background:#fff;border:1px solid #dcdcde;border-radius:10px;padding:16px;display:grid;gap:4px}
+.aiio-card span{color:#646970;font-size:12px;text-transform:uppercase;letter-spacing:.06em;font-weight:600}
+.aiio-card b{font-size:26px;line-height:1.1}
+.aiio-card small{color:#0a7a3d;font-weight:600}
+.aiio-tools{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:12px}
+.aiio-tool{background:#fff;border:1px solid #dcdcde;border-radius:10px;padding:18px}
+.aiio-tool h2{margin:0 0 6px;font-size:16px}
+.aiio-tool p{max-width:62ch}
+.aiio-tool .button-link{margin-left:10px}
+.aiio-progress{margin-top:14px}
+.aiio-bar{height:10px;border-radius:99px;background:#f0f0f1;overflow:hidden}
+.aiio-bar i{display:block;height:100%;width:0;background:linear-gradient(90deg,#c2187a,#7b3fe4);transition:width .4s ease}
+.aiio-status{margin:8px 0 0;color:#3c434a}
+.aiio-settings{margin-top:26px;background:#fff;border:1px solid #dcdcde;border-radius:10px;padding:6px 22px 10px}
+.aiio-radio{display:block;margin:4px 0}
