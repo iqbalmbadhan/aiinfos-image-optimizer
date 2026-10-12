@@ -1,0 +1,1 @@
+# aiinfos-image-optimizer
